@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/folderBrowserIcon.png</file>
+    </qresource>
+</RCC>
